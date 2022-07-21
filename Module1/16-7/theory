@@ -1,0 +1,55 @@
+Android->Mobile Application Development Platform=>OS
+Language:java,kotlin
+
+Java=>Object Oriented Programming(OOP)
+
+
+Kotlin=>
+Null Saftey
+Performance
+Speed
+Coding decrease
+
+Setup:
+JDK->Java Development kit
+JRE->Java Runtime Environment
+JVM->Java Virtual Machine
+
+System=>Bit(32,64)
+JDK 64 bit
+
+Download and install
+
+Set the Path:C:\Program Files\Java\jdk1.8.0_191\bin
+
+Adanced system settings->environment variables->new ->paste the path
+open your cmd and paste the path 
+
+Download eclipse
+
+
+Access Modifier:
+public
+private
+protected
+
+static-fix
+
+void-return type
+
+main-method name
+
+conditions->conditional statement
+if,else if,else,switch,case,break
+
+loop:
+for,while,do while
+
+
+
+
+
+
+
+
+

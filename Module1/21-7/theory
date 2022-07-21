@@ -1,0 +1,43 @@
+OOP:object oriented Programming
+
+Features of OOP
+
+1)Object:Any entity which has own state and behaviour 
+ex:pen,paper etc..
+
+2)class:Collection of objects 
+ex:Human body
+
+3)abstarction:Hiding internal details and showing functionalities
+ex:Login Page
+
+4)encapsualtion:Wrapping up of data or binding of data
+ex:capsule
+
+5)Inheritance:When one object acquire all the properties and behaviour of parent class
+ex:father-son
+
+6)polymorphism:Many ways to perform anything
+ex:two ways
+
+
+-----------------------------------------------------------------------------
+Constructor=>Method Having a same as a classname 
+
+Types of constructor
+1)Default
+2)Parameterized
+
+Method->Must Have a return type
+
+Constructor Does not have a return type
+
+Model->Get & Set
+
+
+
+
+
+
+
+

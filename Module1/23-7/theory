@@ -1,0 +1,26 @@
+inheritance:
+
+types of inheritance:
+1)single
+2)multilevel
+3)multiple
+4)hierarchical
+5)hybrid
+
+=>Multiple Inheritance is not supported in java(Diamond Problem)
+
+Solution is Interface
+
+Interface:Collection of abstract methods
+
+void a()
+{
+//body part
+}
+
+void a();
+
+Abstract Method does not have a body part
+
+
+

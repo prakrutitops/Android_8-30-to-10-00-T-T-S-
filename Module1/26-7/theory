@@ -1,0 +1,22 @@
+keywords:
+
+1) this=>will use this keyword for passing refrence 
+
+2) static=>Fixed the value
+=>Use Existing Memory
+
+1)Variable
+2)Method
+3)block
+
+
+3) final=>Fixed the value that can not change 
+works like constant
+
+1)Variable
+2)Method
+3)Class
+
+
+
+4) super=>You can call Parent class Variable or value

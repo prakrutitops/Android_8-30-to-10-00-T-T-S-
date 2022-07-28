@@ -1,0 +1,21 @@
+Polymorphism:Many ways to perform anything
+
+types of polymorphism
+1)Method Overloading:
+when method having a same name but number of parameters are must be diffrent
+
+
+void a(int ,int b)
+{
+
+}
+void a(int a,int b,int c)
+{
+
+}
+
+
+
+2)Method Overriding:when method having a same name and parameters are also same
+
+

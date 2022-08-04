@@ -19,6 +19,6 @@ Create another table of location
 join location and programs 
 
 
-
+select * from state join coun on state.cid=coun.cid
 
 

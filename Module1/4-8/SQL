@@ -1,0 +1,24 @@
+Database:Tops
+
+Table:
+Programs
+
+p_id
+p_name
+p_fees
+p_faculty
+
+
+Insert data for 5 Programs
+Update data for any 2 programs
+arrange the programs as per fees(asc order)
+
+
+Create another table of location
+
+join location and programs 
+
+
+
+
+

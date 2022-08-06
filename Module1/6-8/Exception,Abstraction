@@ -1,0 +1,64 @@
+JAVA:
+Conditional
+Looping
+OOP
+keywords
+Encapsualtion
+abstract
+abstract class
+Abstraction:Hiding internal details and showing functionalities
+
+
+OOP:
+features of OOP:
+1)Object:Any entity which has own state and behaviour that is called an object.
+ex:pen,paper etc..
+
+2)Class:Collection of objects.[Class Having a data members and methods]
+ex: Human body
+
+3)Abstraction:Hiding internal details and showing functionalities
+ex:Login Page
+
+4)Encapsulation:Wrapping up of data or binding of data
+ex:Capsule
+
+5)Inheritance:When One Object acquire all the properties and behaviour of parent class
+ex:father-son
+
+6)Polymorphism:Many ways to perform anything
+ex:
+Types of poly
+1)Method Overloading
+2)Method Overriding
+
+File Input Output:
+write => FileOutputStream
+read  => FileInputStream
+
+Exception Handling(Error)
+1)Run Time Exception
+2)Compile Time Exception
+
+Keywords:
+Try
+Catch
+Throw
+Throws
+Finally
+
+
+
+
+int-data type
+Integer-Wrapper class
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Thread->For Handling Process
+
+Class->Thread
+Interface->Runnable
+
+Lifecycle
+
+init
+start
+run
+stop
+destroy
+
+request -> response
+Synchronization 
